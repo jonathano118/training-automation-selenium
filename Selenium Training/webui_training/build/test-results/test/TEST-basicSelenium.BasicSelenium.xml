@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="basicSelenium.BasicSelenium" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-06T19:50:34" hostname="N077-HP440G7" time="29.657">
+  <properties/>
+  <testcase name="verifyPasswordChange()" classname="basicSelenium.BasicSelenium" time="29.657"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 57601
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 06, 2021 4:50:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Dec 06, 2021 4:50:38 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 96, so returning the closest version found: 95
+Dec 06, 2021 4:50:38 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 96 of 95
+]]></system-err>
+</testsuite>
